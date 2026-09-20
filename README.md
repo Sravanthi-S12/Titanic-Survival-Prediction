@@ -283,3 +283,7 @@ Titanic-Survival-Prediction/
 └── screenshots/
     ├── output.png
     └── prediction.png
+
+## 👩‍💻 Author
+**Sravanthi**
+#Python #MachineLearning #DataAnalysis #DataScience #Pandas #NumPy #Matplotlib #Seaborn #ScikitLearn #TitanicSurvivalPrediction #GitHub #VSCode

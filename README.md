@@ -280,9 +280,6 @@ Titanic-Survival-Prediction/
 ├── Titanic-Dataset-selected-columns.csv
 ├── titanic_prediction.py
 ├── README.md
-└── screenshots/
-    ├── output.png
-    └── prediction.png
 
 ## 👩‍💻 Author
 **Sravanthi**

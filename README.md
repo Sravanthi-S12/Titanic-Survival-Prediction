@@ -266,15 +266,6 @@ GitHub project management
 
 ⭐ Project
 
-If you found this project useful, consider giving the repository a ⭐ on GitHub.
-
-### 📌 For your GitHub
-
-The two **Mermaid diagrams** above will normally render automatically on GitHub. You don't need to create separate image files for them.
-
-For an even better project presentation, you can also add **screenshots of your VS Code output and prediction** under a `screenshots` folder:
-
-```text
 Titanic-Survival-Prediction/
 │
 ├── Titanic-Dataset-selected-columns.csv
